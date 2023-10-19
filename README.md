@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-jacquesvalmont&label=Profile%20views&color=0e75b6&style=flat" alt="jean-jacquesvalmont" /> </p>
 
-- 🔭 I’m currently working on **Web site in react**
+- 🔭 I’m currently working on **Web site in React, Next.js, Tailwind, Node.js, express.js, PostgreSQL**
 
-- 🌱 I’m currently learning **React, Kotlin, Godot, PostgreSQL, Javascript and Tailwind**
+- 🌱 I’m currently learning **React, Godot, PostgreSQL, Javascript and Tailwind**
 
-- 👯 I’m looking to collaborate on **Web site in react**
+- 👯 I’m looking to collaborate on **Web site in React, Next.js, Tailwind, Node.js, express.js, PostgreSQL**
 
-- 💬 Ask me about **Javascript, Html, CSS**
+- 💬 Ask me about **Javascript, React, Next.js, Tailwind, Node.js, express.js, PostgreSQL**
 
 - 📫 How to reach me **jeanjacquesvalmont@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean-Jacques Valmont</h1>
-<h3 align="center">Actuellement en formation de dévelopeur web en recherche d'une alternance front/back-end ou full-stack pour octobre 2023.</h3>
+<h3 align="center">Actuellement en formation de dévelopeur web en recherche d'une alternance front/back-end ou full-stack pour décembre 2023.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-jacquesvalmont&label=Profile%20views&color=0e75b6&style=flat" alt="jean-jacquesvalmont" /> </p>
 

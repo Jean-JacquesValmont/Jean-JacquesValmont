@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jean-Jacques Valmont</h1>
-<h3 align="center">Currently training to become a web developer and looking for a front-end React work-study placement for March 2024.</h3>
+<h3 align="center">Currently training to become a web developer and looking for a front-end React work-study placement for mai 2024.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jean-jacquesvalmont&label=Profile%20views&color=0e75b6&style=flat" alt="jean-jacquesvalmont" /> </p>
 
